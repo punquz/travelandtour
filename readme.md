@@ -19,6 +19,7 @@ Instructions
 6)after creation of admin account and setting admin value to 0, all other registration will be as a normal user who can view, or purchase.
 7)admin can only add or remove products or make any changes.
 
+p.s: payment integrated
 Thank you
 
 
